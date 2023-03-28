@@ -5,6 +5,7 @@ to run
 ```
 cd webathon
 cd frontend
+npm install
 npm start
 ```
 
@@ -23,5 +24,6 @@ to run
 ```
 cd webathon
 cd backend
+npm install
 npm start
 ```
